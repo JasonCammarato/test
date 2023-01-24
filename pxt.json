@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "person moving around",
     "description": "",
     "dependencies": {
         "core": "*",
